@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/413820931575283616/c9bf503d64b0436e9993d0d03b5b3ea7/artifacts
+end_time: 1759311790813
+entry_point_name: ''
+experiment_id: '413820931575283616'
+lifecycle_stage: active
+run_id: c9bf503d64b0436e9993d0d03b5b3ea7
+run_name: salty-foal-41
+run_uuid: c9bf503d64b0436e9993d0d03b5b3ea7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759311786581
+status: 3
+tags: []
+user_id: AERO

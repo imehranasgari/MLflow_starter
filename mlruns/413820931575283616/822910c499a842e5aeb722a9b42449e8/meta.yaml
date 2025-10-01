@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/413820931575283616/822910c499a842e5aeb722a9b42449e8/artifacts
+deleted_time: 1759312906862
+end_time: 1759311738457
+entry_point_name: ''
+experiment_id: '413820931575283616'
+lifecycle_stage: deleted
+run_id: 822910c499a842e5aeb722a9b42449e8
+run_name: marvelous-newt-850
+run_uuid: 822910c499a842e5aeb722a9b42449e8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759311723465
+status: 4
+tags: []
+user_id: AERO

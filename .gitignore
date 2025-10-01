@@ -1,0 +1,15 @@
+# Python Virtual Environments
+venv/
+.venv/
+env/
+
+# Python cache and compiled files
+__pycache__/
+*.pyc
+
+# Jupyter Notebook Checkpoints
+.ipynb_checkpoints/
+
+# Specific files to ignore
+# این فایل خاص را نادیده بگیر
+get_starter.ipynb

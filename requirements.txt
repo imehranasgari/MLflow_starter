@@ -1,0 +1,7 @@
+numpy
+ipykernel
+mlflow==2.16.2
+uv
+pandas
+matplotlib
+scikit-learn

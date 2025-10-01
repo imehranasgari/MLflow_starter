@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/413820931575283616/59173e52a10d425b8e7094d1cd5a2efc/artifacts
+end_time: 1759310498922
+entry_point_name: ''
+experiment_id: '413820931575283616'
+lifecycle_stage: active
+run_id: 59173e52a10d425b8e7094d1cd5a2efc
+run_name: smiling-shrimp-426
+run_uuid: 59173e52a10d425b8e7094d1cd5a2efc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759310494493
+status: 3
+tags: []
+user_id: AERO

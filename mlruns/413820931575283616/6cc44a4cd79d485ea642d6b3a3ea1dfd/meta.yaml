@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/413820931575283616/6cc44a4cd79d485ea642d6b3a3ea1dfd/artifacts
+end_time: 1759311785474
+entry_point_name: ''
+experiment_id: '413820931575283616'
+lifecycle_stage: active
+run_id: 6cc44a4cd79d485ea642d6b3a3ea1dfd
+run_name: luminous-cow-106
+run_uuid: 6cc44a4cd79d485ea642d6b3a3ea1dfd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759311781122
+status: 3
+tags: []
+user_id: AERO
